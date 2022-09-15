@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 10px;
+    background: url(./QuerocochaF.jpg.)
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif, Helvetica;
+}
+
+.laguna{
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background: #ffff;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.introduccion{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin: auto;
+    width:750px;
+    background: #ffff;
+    max-width: 1000px;
+    margin: auto
+}
+
+.ubicacion{
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background: #ffff;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
